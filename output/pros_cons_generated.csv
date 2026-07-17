@@ -1,0 +1,1066 @@
+company_id,year,pros,cons
+ABB,Dec 2012,High Return on Equity; Low Debt; Positive Free Cash Flow,
+ABB,Mar 2014,High Return on Equity; Low Debt; Positive Free Cash Flow,Negative Free Cash Flow
+ABB,Mar 2015,High Return on Equity; Low Debt; Positive Free Cash Flow,Negative Free Cash Flow
+ABB,Mar 2016,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ABB,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ABB,Mar 2018,High Return on Equity; Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+ABB,Mar 2019,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Negative Free Cash Flow
+ABB,Mar 2020,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Negative Free Cash Flow
+ABB,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Negative Free Cash Flow
+ABB,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ABB,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Negative Free Cash Flow
+ABB,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ADANIENSOL,Mar 2014,Low Debt,Low Return on Equity; Negative Free Cash Flow
+ADANIENSOL,Mar 2015,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIENSOL,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt
+ADANIENSOL,Mar 2017,Strong Operating Margin; Positive Free Cash Flow,High Debt
+ADANIENSOL,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+ADANIENSOL,Mar 2019,Strong Operating Margin,Low Return on Equity; High Debt; Negative Free Cash Flow
+ADANIENSOL,Mar 2020,Strong Operating Margin,Low Return on Equity; High Debt; Negative Free Cash Flow
+ADANIENSOL,Mar 2021,Strong Operating Margin,High Debt; Negative Free Cash Flow
+ADANIENSOL,Mar 2022,Strong Operating Margin; Positive Free Cash Flow,High Debt
+ADANIENSOL,Mar 2023,Strong Operating Margin,High Debt; Negative Free Cash Flow
+ADANIENSOL,Mar 2024,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt
+ADANIENT,Mar 2013,,Low Return on Equity; High Debt; Low Net Profit Margin; Negative Free Cash Flow
+ADANIENT,Mar 2014,Positive Free Cash Flow,High Debt; Low Net Profit Margin; Poor Interest Coverage
+ADANIENT,Mar 2015,,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIENT,Mar 2016,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+ADANIENT,Mar 2017,,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+ADANIENT,Mar 2018,,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIENT,Mar 2019,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+ADANIENT,Mar 2020,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+ADANIENT,Mar 2021,,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+ADANIENT,Mar 2022,,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIENT,Mar 2023,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+ADANIENT,Mar 2024,,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+ADANIGREEN,Mar 2017,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIGREEN,Mar 2018,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIGREEN,Mar 2019,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIGREEN,Mar 2020,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIGREEN,Mar 2021,Strong Operating Margin,Low Return on Equity; High Debt; Poor Interest Coverage; Negative Free Cash Flow
+ADANIGREEN,Mar 2022,Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+ADANIGREEN,Mar 2023,Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+ADANIGREEN,Mar 2024,Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+ADANIPORTS,Mar 2013,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+ADANIPORTS,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+ADANIPORTS,Mar 2015,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+ADANIPORTS,Mar 2016,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+ADANIPORTS,Mar 2017,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ADANIPORTS,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ADANIPORTS,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ADANIPORTS,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+ADANIPORTS,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+ADANIPORTS,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+ADANIPORTS,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+ADANIPORTS,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ADANIPOWER,Mar 2013,,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIPOWER,Mar 2014,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+ADANIPOWER,Mar 2015,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+ADANIPOWER,Mar 2016,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+ADANIPOWER,Mar 2017,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+ADANIPOWER,Mar 2018,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+ADANIPOWER,Mar 2019,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+ADANIPOWER,Mar 2020,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+ADANIPOWER,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin
+ADANIPOWER,Mar 2022,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt
+ADANIPOWER,Mar 2023,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+ADANIPOWER,Mar 2024,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Dec 2012,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Dec 2013,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Dec 2014,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Dec 2015,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+AMBUJACEM,Dec 2016,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Negative Free Cash Flow
+AMBUJACEM,Dec 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+AMBUJACEM,Dec 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Dec 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Dec 2020,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Dec 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+AMBUJACEM,Mar 2024,Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+APOLLOHOSP,Mar 2013,Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+APOLLOHOSP,Mar 2014,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+APOLLOHOSP,Mar 2015,Comfortable Interest Coverage,Negative Free Cash Flow
+APOLLOHOSP,Mar 2016,,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+APOLLOHOSP,Mar 2017,,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+APOLLOHOSP,Mar 2018,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+APOLLOHOSP,Mar 2019,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+APOLLOHOSP,Mar 2020,Positive Free Cash Flow,Low Net Profit Margin
+APOLLOHOSP,Mar 2021,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+APOLLOHOSP,Mar 2022,Comfortable Interest Coverage; Positive Free Cash Flow,
+APOLLOHOSP,Mar 2023,Comfortable Interest Coverage; Positive Free Cash Flow,
+APOLLOHOSP,Mar 2024,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+ASIANPAINT,Mar 2013,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2016,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2017,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2018,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2019,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2020,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2021,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2022,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2023,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ASIANPAINT,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+AXISBANK,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+AXISBANK,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+AXISBANK,Mar 2015,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+AXISBANK,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+AXISBANK,Mar 2017,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin
+AXISBANK,Mar 2018,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+AXISBANK,Mar 2019,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin
+AXISBANK,Mar 2020,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin
+AXISBANK,Mar 2021,,Low Return on Equity; High Debt; Weak Operating Margin; Negative Free Cash Flow
+AXISBANK,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+AXISBANK,Mar 2023,Strong Operating Margin,Low Return on Equity; High Debt; Poor Interest Coverage; Negative Free Cash Flow
+AXISBANK,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+BAJAJ-AUTO,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+BAJAJ-AUTO,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2021,Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJ-AUTO,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJFINSV,Mar 2013,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+BAJAJFINSV,Mar 2014,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2015,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2016,High Return on Equity; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2017,High Return on Equity; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2018,High Return on Equity; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2019,High Return on Equity; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2020,Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+BAJAJFINSV,Mar 2021,High Return on Equity; Strong Operating Margin; Positive Free Cash Flow,High Debt
+BAJAJFINSV,Mar 2022,High Return on Equity; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2023,High Return on Equity; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJFINSV,Mar 2024,High Return on Equity; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BAJAJHLDNG,Mar 2013,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2014,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2015,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2016,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2017,Low Debt; Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+BAJAJHLDNG,Mar 2018,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2019,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2020,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2021,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Low Return on Equity; Negative Free Cash Flow
+BAJAJHLDNG,Mar 2022,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+BAJAJHLDNG,Mar 2023,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJAJHLDNG,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BAJFINANCE,Mar 2015,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BAJFINANCE,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BAJFINANCE,Mar 2017,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BAJFINANCE,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BAJFINANCE,Mar 2019,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BAJFINANCE,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BAJFINANCE,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BAJFINANCE,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+BAJFINANCE,Mar 2023,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+BAJFINANCE,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+BANKBARODA,Mar 2013,Strong Operating Margin; Positive Free Cash Flow,High Debt
+BANKBARODA,Mar 2014,Strong Operating Margin; Positive Free Cash Flow,High Debt
+BANKBARODA,Mar 2015,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt
+BANKBARODA,Mar 2016,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BANKBARODA,Mar 2017,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin
+BANKBARODA,Mar 2018,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BANKBARODA,Mar 2019,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BANKBARODA,Mar 2020,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin
+BANKBARODA,Mar 2021,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BANKBARODA,Mar 2022,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin
+BANKBARODA,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+BANKBARODA,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+BEL,Mar 2013,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,High Debt
+BEL,Mar 2014,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,High Debt
+BEL,Mar 2015,High Return on Equity; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,High Debt
+BEL,Mar 2016,High Return on Equity; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,High Debt
+BEL,Mar 2017,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BEL,Mar 2018,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+BEL,Mar 2019,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BEL,Mar 2020,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BEL,Mar 2021,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BEL,Mar 2022,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+BEL,Mar 2023,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BEL,Mar 2024,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+BHARTIARTL,Mar 2013,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+BHARTIARTL,Mar 2014,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+BHARTIARTL,Mar 2015,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,High Debt
+BHARTIARTL,Mar 2016,Strong Operating Margin; Positive Free Cash Flow,
+BHARTIARTL,Mar 2017,Strong Operating Margin,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+BHARTIARTL,Mar 2018,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+BHARTIARTL,Mar 2019,Strong Operating Margin,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+BHARTIARTL,Mar 2020,Strong Operating Margin,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+BHARTIARTL,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin
+BHARTIARTL,Mar 2022,Strong Operating Margin; Positive Free Cash Flow,High Debt
+BHARTIARTL,Mar 2023,Strong Operating Margin; Positive Free Cash Flow,High Debt
+BHARTIARTL,Mar 2024,Strong Operating Margin; Positive Free Cash Flow,High Debt
+BHEL,Mar 2013,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BHEL,Mar 2014,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BHEL,Mar 2015,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+BHEL,Mar 2016,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+BHEL,Mar 2017,Low Debt,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BHEL,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+BHEL,Mar 2019,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BHEL,Mar 2020,Low Debt,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+BHEL,Mar 2021,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+BHEL,Mar 2022,Low Debt,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BHEL,Mar 2023,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+BHEL,Mar 2024,Low Debt,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+BOSCHLTD,Dec 2012,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Dec 2013,Low Debt; Positive Free Cash Flow,
+BOSCHLTD,Mar 2015,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Mar 2016,Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Mar 2017,Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Mar 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Mar 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+BOSCHLTD,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+BOSCHLTD,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BOSCHLTD,Mar 2024,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BPCL,Mar 2013,Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+BPCL,Mar 2014,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+BPCL,Mar 2015,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+BPCL,Mar 2016,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+BPCL,Mar 2017,High Return on Equity; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BPCL,Mar 2018,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+BPCL,Mar 2019,High Return on Equity; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BPCL,Mar 2020,,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+BPCL,Mar 2021,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+BPCL,Mar 2022,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+BPCL,Mar 2023,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+BPCL,Mar 2024,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2013,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+BRITANNIA,Mar 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+BRITANNIA,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2016,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2017,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2018,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2019,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2020,High Return on Equity; Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+BRITANNIA,Mar 2021,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2022,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2023,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+BRITANNIA,Mar 2024,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+CANBK,Mar 2013,Strong Operating Margin; Positive Free Cash Flow,High Debt
+CANBK,Mar 2014,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin
+CANBK,Mar 2015,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin
+CANBK,Mar 2016,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin
+CANBK,Mar 2017,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+CANBK,Mar 2018,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+CANBK,Mar 2019,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin
+CANBK,Mar 2020,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+CANBK,Mar 2021,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+CANBK,Mar 2022,,Low Return on Equity; High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+CANBK,Mar 2023,,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+CANBK,Mar 2024,Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+CHOLAFIN,Mar 2013,Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2014,Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2015,Strong Operating Margin,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2016,Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2017,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2020,Strong Operating Margin,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CHOLAFIN,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+CIPLA,Mar 2013,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+CIPLA,Mar 2014,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+CIPLA,Mar 2015,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+CIPLA,Mar 2016,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+CIPLA,Mar 2017,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+CIPLA,Mar 2018,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+CIPLA,Mar 2019,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+CIPLA,Mar 2020,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+CIPLA,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+CIPLA,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+CIPLA,Mar 2023,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+CIPLA,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2017,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2018,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2021,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+COALINDIA,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2013,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+DABUR,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2017,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2018,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2019,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2020,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DIVISLAB,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+DIVISLAB,Mar 2023,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+DIVISLAB,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DLF,Mar 2013,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Poor Interest Coverage
+DLF,Mar 2014,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Poor Interest Coverage
+DLF,Mar 2015,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Poor Interest Coverage
+DLF,Mar 2016,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+DLF,Mar 2017,Strong Operating Margin,Low Return on Equity; Poor Interest Coverage; Negative Free Cash Flow
+DLF,Mar 2018,Low Debt; Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+DLF,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Poor Interest Coverage
+DLF,Mar 2020,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+DLF,Mar 2021,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+DLF,Mar 2022,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+DLF,Mar 2023,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+DLF,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+DMART,Mar 2013,Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+DMART,Mar 2014,Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+DMART,Mar 2015,Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+DMART,Mar 2016,High Return on Equity; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+DMART,Mar 2017,Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+DMART,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+DMART,Mar 2019,Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+DMART,Mar 2020,Low Debt; Comfortable Interest Coverage,Weak Operating Margin; Negative Free Cash Flow
+DMART,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+DMART,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+DMART,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+DMART,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+DRREDDY,Mar 2013,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+DRREDDY,Mar 2014,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2016,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+DRREDDY,Mar 2019,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2023,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+DRREDDY,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Dec 2012,High Return on Equity; Low Debt; Comfortable Interest Coverage,Weak Operating Margin; Negative Free Cash Flow
+EICHERMOT,Dec 2013,High Return on Equity; Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+EICHERMOT,Dec 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+EICHERMOT,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+EICHERMOT,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Mar 2020,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Mar 2021,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Mar 2022,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Mar 2023,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+EICHERMOT,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GAIL,Mar 2013,Comfortable Interest Coverage,Negative Free Cash Flow
+GAIL,Mar 2014,Comfortable Interest Coverage; Positive Free Cash Flow,
+GAIL,Mar 2015,Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Weak Operating Margin
+GAIL,Mar 2016,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+GAIL,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+GAIL,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GAIL,Mar 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GAIL,Mar 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GAIL,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GAIL,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GAIL,Mar 2023,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+GAIL,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2013,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+GODREJCP,Mar 2014,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2015,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+GODREJCP,Mar 2016,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2017,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+GODREJCP,Mar 2018,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2020,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2021,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GODREJCP,Mar 2024,Low Debt; Strong Operating Margin,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+GRASIM,Mar 2013,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+GRASIM,Mar 2014,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GRASIM,Mar 2015,Comfortable Interest Coverage; Positive Free Cash Flow,
+GRASIM,Mar 2016,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+GRASIM,Mar 2017,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+GRASIM,Mar 2018,Strong Operating Margin,Low Return on Equity; Negative Free Cash Flow
+GRASIM,Mar 2019,Strong Operating Margin,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+GRASIM,Mar 2020,Positive Free Cash Flow,
+GRASIM,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,
+GRASIM,Mar 2022,Strong Operating Margin; Positive Free Cash Flow,
+GRASIM,Mar 2023,,Negative Free Cash Flow
+GRASIM,Mar 2024,Strong Operating Margin,Negative Free Cash Flow
+HAL,Mar 2017,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAL,Mar 2018,High Return on Equity; Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+HAL,Mar 2019,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+HAL,Mar 2020,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAL,Mar 2021,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAL,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+HAL,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAL,Mar 2024,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2013,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+HAVELLS,Mar 2014,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+HAVELLS,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2021,High Return on Equity; Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+HAVELLS,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HAVELLS,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Jun 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Jun 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Jun 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2023,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HCLTECH,Mar 2024,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HDFCBANK,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+HDFCBANK,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+HDFCBANK,Mar 2015,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+HDFCBANK,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+HDFCBANK,Mar 2017,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+HDFCBANK,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+HDFCBANK,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+HDFCBANK,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+HDFCBANK,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+HDFCBANK,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+HDFCBANK,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+HDFCBANK,Mar 2024,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+HDFCLIFE,Mar 2013,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+HDFCLIFE,Mar 2014,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+HDFCLIFE,Mar 2015,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+HDFCLIFE,Mar 2016,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+HDFCLIFE,Mar 2017,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+HDFCLIFE,Mar 2018,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+HDFCLIFE,Mar 2019,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+HDFCLIFE,Mar 2020,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+HDFCLIFE,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+HDFCLIFE,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+HDFCLIFE,Mar 2023,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+HDFCLIFE,Mar 2024,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+HEROMOTOCO,Mar 2014,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2015,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2016,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2017,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2018,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2019,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2020,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2023,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HEROMOTOCO,Mar 2024,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDALCO,Mar 2013,Strong Operating Margin; Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+HINDALCO,Mar 2014,Strong Operating Margin; Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+HINDALCO,Mar 2015,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+HINDALCO,Mar 2016,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+HINDALCO,Mar 2017,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+HINDALCO,Mar 2018,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDALCO,Mar 2019,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+HINDALCO,Mar 2020,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+HINDALCO,Mar 2021,Strong Operating Margin,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+HINDALCO,Mar 2022,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDALCO,Mar 2023,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+HINDALCO,Mar 2024,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+HINDUNILVR,Mar 2013,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2014,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2015,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2016,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2017,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2018,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2021,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2022,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+HINDUNILVR,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ICICIBANK,Mar 2013,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+ICICIBANK,Mar 2014,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+ICICIBANK,Mar 2015,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+ICICIBANK,Mar 2016,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+ICICIBANK,Mar 2017,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+ICICIBANK,Mar 2018,,Low Return on Equity; High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+ICICIBANK,Mar 2019,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin; Poor Interest Coverage
+ICICIBANK,Mar 2020,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin; Poor Interest Coverage
+ICICIBANK,Mar 2021,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+ICICIBANK,Mar 2022,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+ICICIBANK,Mar 2023,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+ICICIBANK,Mar 2024,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+ICICIGI,Mar 2013,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+ICICIGI,Mar 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage,Weak Operating Margin; Negative Free Cash Flow
+ICICIGI,Mar 2015,High Return on Equity; Low Debt; Positive Free Cash Flow,Weak Operating Margin
+ICICIGI,Mar 2016,Low Debt; Strong Operating Margin; Positive Free Cash Flow,
+ICICIGI,Mar 2017,Low Debt; Strong Operating Margin,Poor Interest Coverage; Negative Free Cash Flow
+ICICIGI,Mar 2018,Low Debt; Positive Free Cash Flow,Weak Operating Margin
+ICICIGI,Mar 2019,Low Debt; Strong Operating Margin; Positive Free Cash Flow,Poor Interest Coverage
+ICICIGI,Mar 2020,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ICICIGI,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ICICIGI,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ICICIGI,Mar 2023,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ICICIGI,Mar 2024,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ICICIPRULI,Mar 2013,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+ICICIPRULI,Mar 2014,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ICICIPRULI,Mar 2015,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+ICICIPRULI,Mar 2016,High Return on Equity; Low Debt; Strong Operating Margin; Positive Free Cash Flow,
+ICICIPRULI,Mar 2017,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+ICICIPRULI,Mar 2018,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+ICICIPRULI,Mar 2019,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+ICICIPRULI,Mar 2020,Low Debt; Comfortable Interest Coverage,Weak Operating Margin; Negative Free Cash Flow
+ICICIPRULI,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+ICICIPRULI,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+ICICIPRULI,Mar 2023,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+ICICIPRULI,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+INDIGO,Mar 2013,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+INDIGO,Mar 2014,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Low Net Profit Margin; Negative Free Cash Flow
+INDIGO,Mar 2015,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INDIGO,Mar 2016,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INDIGO,Mar 2017,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INDIGO,Mar 2018,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+INDIGO,Mar 2019,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+INDIGO,Mar 2020,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+INDIGO,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+INDIGO,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+INDIGO,Mar 2023,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+INDIGO,Mar 2024,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INDUSINDBK,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2015,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2017,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+INDUSINDBK,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2019,,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2020,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2021,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin
+INDUSINDBK,Mar 2022,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin
+INDUSINDBK,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+INDUSINDBK,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+INFY,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INFY,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INFY,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INFY,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+INFY,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin,Negative Free Cash Flow
+INFY,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+INFY,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+INFY,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INFY,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INFY,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INFY,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+INFY,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IOC,Mar 2013,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+IOC,Mar 2014,Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+IOC,Mar 2015,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+IOC,Mar 2016,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+IOC,Mar 2017,Comfortable Interest Coverage; Positive Free Cash Flow,
+IOC,Mar 2018,Comfortable Interest Coverage; Positive Free Cash Flow,
+IOC,Mar 2019,Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+IOC,Mar 2020,,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+IOC,Mar 2021,Comfortable Interest Coverage; Positive Free Cash Flow,
+IOC,Mar 2022,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+IOC,Mar 2023,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+IOC,Mar 2024,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRCTC,Mar 2015,High Return on Equity; Low Debt; Positive Free Cash Flow,
+IRCTC,Mar 2016,High Return on Equity; Low Debt; Positive Free Cash Flow,
+IRCTC,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRCTC,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRCTC,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRCTC,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRCTC,Mar 2021,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+IRCTC,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRCTC,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRCTC,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+IRFC,Mar 2016,Strong Operating Margin,Low Return on Equity; High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2017,Strong Operating Margin,Low Return on Equity; High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin,Low Return on Equity; High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+IRFC,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+ITC,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ITC,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+JINDALSTEL,Mar 2013,Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+JINDALSTEL,Mar 2014,Strong Operating Margin,Low Return on Equity; Negative Free Cash Flow
+JINDALSTEL,Mar 2015,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+JINDALSTEL,Mar 2016,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+JINDALSTEL,Mar 2017,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+JINDALSTEL,Mar 2018,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+JINDALSTEL,Mar 2019,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+JINDALSTEL,Mar 2020,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+JINDALSTEL,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,
+JINDALSTEL,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+JINDALSTEL,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+JINDALSTEL,Mar 2024,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+JIOFIN,Mar 2023,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+JIOFIN,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+JSWENERGY,Mar 2013,Strong Operating Margin; Positive Free Cash Flow,
+JSWENERGY,Mar 2014,Strong Operating Margin; Positive Free Cash Flow,
+JSWENERGY,Mar 2015,Strong Operating Margin; Positive Free Cash Flow,
+JSWENERGY,Mar 2016,Strong Operating Margin; Positive Free Cash Flow,
+JSWENERGY,Mar 2017,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+JSWENERGY,Mar 2018,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+JSWENERGY,Mar 2019,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+JSWENERGY,Mar 2020,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+JSWENERGY,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+JSWENERGY,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+JSWENERGY,Mar 2023,Strong Operating Margin,Low Return on Equity; Negative Free Cash Flow
+JSWENERGY,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin,Low Return on Equity; Negative Free Cash Flow
+JSWSTEEL,Mar 2013,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+JSWSTEEL,Mar 2014,,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+JSWSTEEL,Mar 2015,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+JSWSTEEL,Mar 2016,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+JSWSTEEL,Mar 2017,Strong Operating Margin; Positive Free Cash Flow,
+JSWSTEEL,Mar 2018,High Return on Equity; Strong Operating Margin; Positive Free Cash Flow,
+JSWSTEEL,Mar 2019,High Return on Equity; Strong Operating Margin; Positive Free Cash Flow,
+JSWSTEEL,Mar 2020,,Negative Free Cash Flow
+JSWSTEEL,Mar 2021,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+JSWSTEEL,Mar 2022,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+JSWSTEEL,Mar 2023,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+JSWSTEEL,Mar 2024,,Negative Free Cash Flow
+KOTAKBANK,Mar 2013,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+KOTAKBANK,Mar 2014,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+KOTAKBANK,Mar 2015,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+KOTAKBANK,Mar 2016,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+KOTAKBANK,Mar 2017,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+KOTAKBANK,Mar 2018,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+KOTAKBANK,Mar 2019,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+KOTAKBANK,Mar 2020,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+KOTAKBANK,Mar 2021,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+KOTAKBANK,Mar 2022,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+KOTAKBANK,Mar 2023,Healthy Net Profit Margin,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+KOTAKBANK,Mar 2024,Healthy Net Profit Margin; Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+LICI,Mar 2019,High Return on Equity; Positive Free Cash Flow,High Debt; Low Net Profit Margin; Weak Operating Margin
+LICI,Mar 2020,High Return on Equity; Positive Free Cash Flow,High Debt; Low Net Profit Margin; Weak Operating Margin
+LICI,Mar 2021,High Return on Equity; Low Debt; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+LICI,Mar 2022,High Return on Equity; Low Debt; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+LICI,Mar 2023,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+LICI,Mar 2024,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+LODHA,Mar 2016,Strong Operating Margin,High Debt; Negative Free Cash Flow
+LODHA,Mar 2017,Strong Operating Margin; Positive Free Cash Flow,High Debt
+LODHA,Mar 2018,Comfortable Interest Coverage; Positive Free Cash Flow,High Debt
+LODHA,Mar 2019,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage,High Debt; Negative Free Cash Flow
+LODHA,Mar 2020,Positive Free Cash Flow,High Debt
+LODHA,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+LODHA,Mar 2022,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+LODHA,Mar 2023,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+LODHA,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Low Return on Equity; Negative Free Cash Flow
+LT,Mar 2013,High Return on Equity; Low Debt,Negative Free Cash Flow
+LT,Mar 2014,High Return on Equity; Low Debt,Negative Free Cash Flow
+LT,Mar 2015,High Return on Equity; Low Debt,Negative Free Cash Flow
+LT,Mar 2016,High Return on Equity; Low Debt,Low Net Profit Margin; Negative Free Cash Flow
+LT,Mar 2017,High Return on Equity; Low Debt,Negative Free Cash Flow
+LT,Mar 2018,High Return on Equity; Low Debt,Negative Free Cash Flow
+LT,Mar 2019,High Return on Equity; Low Debt,Negative Free Cash Flow
+LT,Mar 2020,High Return on Equity; Low Debt,Negative Free Cash Flow
+LT,Mar 2021,High Return on Equity; Low Debt; Positive Free Cash Flow,
+LT,Mar 2022,High Return on Equity; Low Debt; Positive Free Cash Flow,
+LT,Mar 2023,High Return on Equity; Low Debt; Positive Free Cash Flow,
+LT,Mar 2024,High Return on Equity; Low Debt; Positive Free Cash Flow,
+LTIM,Mar 2013,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2016,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2017,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2020,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2023,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+LTIM,Mar 2024,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+M&M,Mar 2013,High Return on Equity,Negative Free Cash Flow
+M&M,Mar 2014,High Return on Equity,Negative Free Cash Flow
+M&M,Mar 2015,,Low Net Profit Margin; Negative Free Cash Flow
+M&M,Mar 2016,,Low Net Profit Margin; Negative Free Cash Flow
+M&M,Mar 2017,,Low Net Profit Margin; Negative Free Cash Flow
+M&M,Mar 2018,High Return on Equity,Negative Free Cash Flow
+M&M,Mar 2019,,Negative Free Cash Flow
+M&M,Mar 2020,,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage; Negative Free Cash Flow
+M&M,Mar 2021,,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+M&M,Mar 2022,Positive Free Cash Flow,
+M&M,Mar 2023,High Return on Equity,Negative Free Cash Flow
+M&M,Mar 2024,,Negative Free Cash Flow
+MARUTI,Mar 2013,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2014,Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+MARUTI,Mar 2015,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2016,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2017,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Weak Operating Margin
+MARUTI,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+MARUTI,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MARUTI,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+MOTHERSON,Mar 2013,Comfortable Interest Coverage; Positive Free Cash Flow,High Debt; Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2014,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2015,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2016,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+MOTHERSON,Mar 2017,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+MOTHERSON,Mar 2018,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2019,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2020,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2021,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2022,Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2023,Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+MOTHERSON,Mar 2024,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+NAUKRI,Mar 2013,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NAUKRI,Mar 2014,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Negative Free Cash Flow
+NAUKRI,Mar 2015,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+NAUKRI,Mar 2016,Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+NAUKRI,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+NAUKRI,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NAUKRI,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+NAUKRI,Mar 2020,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+NAUKRI,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage,Weak Operating Margin; Negative Free Cash Flow
+NAUKRI,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+NAUKRI,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+NAUKRI,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Low Return on Equity; Negative Free Cash Flow
+NESTLEIND,Dec 2013,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2014,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2015,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2016,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2017,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2018,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2021,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2022,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Dec 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NESTLEIND,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NHPC,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+NHPC,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+NHPC,Mar 2015,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+NHPC,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+NHPC,Mar 2017,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NHPC,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+NHPC,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+NHPC,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NHPC,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NHPC,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NHPC,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NHPC,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NTPC,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+NTPC,Mar 2014,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NTPC,Mar 2015,Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+NTPC,Mar 2016,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+NTPC,Mar 2017,Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+NTPC,Mar 2018,Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+NTPC,Mar 2019,Strong Operating Margin,Negative Free Cash Flow
+NTPC,Mar 2020,Strong Operating Margin,Negative Free Cash Flow
+NTPC,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,
+NTPC,Mar 2022,Strong Operating Margin; Positive Free Cash Flow,
+NTPC,Mar 2023,Strong Operating Margin; Positive Free Cash Flow,
+NTPC,Mar 2024,Strong Operating Margin; Positive Free Cash Flow,
+ONGC,Mar 2013,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+ONGC,Mar 2014,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+ONGC,Mar 2015,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+ONGC,Mar 2016,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+ONGC,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ONGC,Mar 2018,Comfortable Interest Coverage,Negative Free Cash Flow
+ONGC,Mar 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ONGC,Mar 2020,Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+ONGC,Mar 2021,Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+ONGC,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ONGC,Mar 2023,Comfortable Interest Coverage; Positive Free Cash Flow,
+ONGC,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+PFC,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2015,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2017,Positive Free Cash Flow,Low Return on Equity; High Debt; Poor Interest Coverage
+PFC,Mar 2018,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2019,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2021,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2022,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+PFC,Mar 2023,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PFC,Mar 2024,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+PIDILITIND,Mar 2013,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+PIDILITIND,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2019,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+PIDILITIND,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+PIDILITIND,Mar 2024,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+PNB,Mar 2013,High Return on Equity,High Debt; Negative Free Cash Flow
+PNB,Mar 2014,High Return on Equity; Positive Free Cash Flow,High Debt
+PNB,Mar 2015,High Return on Equity; Positive Free Cash Flow,High Debt
+PNB,Mar 2016,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin
+PNB,Mar 2017,High Return on Equity; Positive Free Cash Flow,High Debt; Low Net Profit Margin
+PNB,Mar 2018,,Low Return on Equity; High Debt; Low Net Profit Margin; Negative Free Cash Flow
+PNB,Mar 2019,,Low Return on Equity; High Debt; Low Net Profit Margin; Negative Free Cash Flow
+PNB,Mar 2020,,Low Return on Equity; High Debt; Low Net Profit Margin; Negative Free Cash Flow
+PNB,Mar 2021,High Return on Equity; Positive Free Cash Flow,High Debt; Low Net Profit Margin
+PNB,Mar 2022,High Return on Equity; Positive Free Cash Flow,High Debt
+PNB,Mar 2023,High Return on Equity; Positive Free Cash Flow,High Debt; Low Net Profit Margin
+PNB,Mar 2024,High Return on Equity,High Debt; Negative Free Cash Flow
+POWERGRID,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+POWERGRID,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+POWERGRID,Mar 2015,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+POWERGRID,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+POWERGRID,Mar 2017,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+POWERGRID,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Negative Free Cash Flow
+POWERGRID,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt
+POWERGRID,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt
+POWERGRID,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt
+POWERGRID,Mar 2022,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+POWERGRID,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+POWERGRID,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,
+RECLTD,Mar 2013,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2014,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2015,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2016,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2017,Healthy Net Profit Margin; Strong Operating Margin; Positive Free Cash Flow,High Debt; Poor Interest Coverage
+RECLTD,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2021,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2022,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RECLTD,Mar 2024,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+RELIANCE,Mar 2013,Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+RELIANCE,Mar 2014,Comfortable Interest Coverage,Weak Operating Margin; Negative Free Cash Flow
+RELIANCE,Mar 2015,Comfortable Interest Coverage,Negative Free Cash Flow
+RELIANCE,Mar 2016,Comfortable Interest Coverage; Positive Free Cash Flow,
+RELIANCE,Mar 2017,Comfortable Interest Coverage,Negative Free Cash Flow
+RELIANCE,Mar 2018,Comfortable Interest Coverage; Positive Free Cash Flow,
+RELIANCE,Mar 2019,Comfortable Interest Coverage,Negative Free Cash Flow
+RELIANCE,Mar 2020,Positive Free Cash Flow,Low Return on Equity
+RELIANCE,Mar 2021,Low Debt,Low Return on Equity; Negative Free Cash Flow
+RELIANCE,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+RELIANCE,Mar 2023,Comfortable Interest Coverage; Positive Free Cash Flow,
+RELIANCE,Mar 2024,Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SBILIFE,Mar 2013,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+SBILIFE,Mar 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+SBILIFE,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+SBILIFE,Mar 2016,Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+SBILIFE,Mar 2017,Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+SBILIFE,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+SBILIFE,Mar 2019,Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+SBILIFE,Mar 2020,Low Debt; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+SBILIFE,Mar 2021,Low Debt; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+SBILIFE,Mar 2022,Low Debt; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+SBILIFE,Mar 2023,Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+SBILIFE,Mar 2024,Low Debt; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+SHREECEM,Jun 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SHREECEM,Jun 2014,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SHREECEM,Jun 2015,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SHREECEM,Mar 2017,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SHREECEM,Mar 2018,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+SHREECEM,Mar 2019,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SHREECEM,Mar 2020,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+SHREECEM,Mar 2021,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SHREECEM,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SHREECEM,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+SHREECEM,Mar 2024,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SHRIRAMFIN,Mar 2013,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2014,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2015,,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2016,,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2017,,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2018,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2019,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2020,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2021,Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2022,,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2023,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SHRIRAMFIN,Mar 2024,Healthy Net Profit Margin; Strong Operating Margin,High Debt; Poor Interest Coverage; Negative Free Cash Flow
+SIEMENS,Sep 2011,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+SIEMENS,Sep 2014,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+SIEMENS,Sep 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+SIEMENS,Sep 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+SIEMENS,Sep 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+SIEMENS,Sep 2018,Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+SIEMENS,Sep 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+SIEMENS,Sep 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SIEMENS,Sep 2021,Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+SIEMENS,Sep 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+SIEMENS,Sep 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+SIEMENS,Sep 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+SUNPHARMA,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SUNPHARMA,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SUNPHARMA,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SUNPHARMA,Mar 2016,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SUNPHARMA,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+SUNPHARMA,Mar 2018,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SUNPHARMA,Mar 2019,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SUNPHARMA,Mar 2020,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SUNPHARMA,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SUNPHARMA,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+SUNPHARMA,Mar 2023,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+SUNPHARMA,Mar 2024,Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TATACONSUM,Mar 2013,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2014,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2015,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+TATACONSUM,Mar 2016,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+TATACONSUM,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2019,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+TATACONSUM,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2022,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATACONSUM,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+TATAMOTORS,Mar 2013,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+TATAMOTORS,Mar 2014,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+TATAMOTORS,Mar 2015,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+TATAMOTORS,Mar 2016,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin
+TATAMOTORS,Mar 2017,Comfortable Interest Coverage,Low Net Profit Margin; Negative Free Cash Flow
+TATAMOTORS,Mar 2018,Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+TATAMOTORS,Mar 2019,,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+TATAMOTORS,Mar 2020,,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+TATAMOTORS,Mar 2021,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin
+TATAMOTORS,Mar 2022,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin
+TATAMOTORS,Mar 2023,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin
+TATAMOTORS,Mar 2024,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+TATAPOWER,Mar 2013,,Low Return on Equity; High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TATAPOWER,Mar 2014,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin
+TATAPOWER,Mar 2015,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+TATAPOWER,Mar 2016,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+TATAPOWER,Mar 2017,Strong Operating Margin,Low Return on Equity; High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TATAPOWER,Mar 2018,Positive Free Cash Flow,High Debt; Weak Operating Margin
+TATAPOWER,Mar 2019,Positive Free Cash Flow,High Debt
+TATAPOWER,Mar 2020,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin
+TATAPOWER,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin
+TATAPOWER,Mar 2022,Positive Free Cash Flow,Low Return on Equity; High Debt
+TATAPOWER,Mar 2023,,Negative Free Cash Flow
+TATAPOWER,Mar 2024,Positive Free Cash Flow,
+TATASTEEL,Mar 2013,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+TATASTEEL,Mar 2014,,Low Return on Equity; High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TATASTEEL,Mar 2015,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+TATASTEEL,Mar 2016,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+TATASTEEL,Mar 2017,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Poor Interest Coverage
+TATASTEEL,Mar 2018,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+TATASTEEL,Mar 2019,,Negative Free Cash Flow
+TATASTEEL,Mar 2020,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Poor Interest Coverage
+TATASTEEL,Mar 2021,Strong Operating Margin; Positive Free Cash Flow,
+TATASTEEL,Mar 2022,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TATASTEEL,Mar 2023,Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+TATASTEEL,Mar 2024,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+TCS,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2015,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2016,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2017,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2018,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2019,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2020,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2021,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2022,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2023,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TCS,Mar 2024,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2013,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2014,High Return on Equity; Low Debt; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2016,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2018,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2019,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2020,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2021,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2022,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TECHM,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+TITAN,Mar 2013,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TITAN,Mar 2014,High Return on Equity; Low Debt; Comfortable Interest Coverage,Negative Free Cash Flow
+TITAN,Mar 2015,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TITAN,Mar 2016,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+TITAN,Mar 2017,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Weak Operating Margin
+TITAN,Mar 2018,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TITAN,Mar 2019,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TITAN,Mar 2020,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+TITAN,Mar 2021,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+TITAN,Mar 2022,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+TITAN,Mar 2023,High Return on Equity; Comfortable Interest Coverage,Negative Free Cash Flow
+TITAN,Mar 2024,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2013,High Return on Equity; Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+TORNTPHARM,Mar 2014,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2015,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+TORNTPHARM,Mar 2016,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2017,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2018,Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+TORNTPHARM,Mar 2019,Strong Operating Margin; Positive Free Cash Flow,Low Return on Equity
+TORNTPHARM,Mar 2020,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2021,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2022,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2023,High Return on Equity; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TORNTPHARM,Mar 2024,High Return on Equity; Healthy Net Profit Margin; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+TRENT,Mar 2013,Low Debt,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+TRENT,Mar 2014,Low Debt,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+TRENT,Mar 2015,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Weak Operating Margin; Negative Free Cash Flow
+TRENT,Mar 2016,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+TRENT,Mar 2017,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin
+TRENT,Mar 2018,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+TRENT,Mar 2019,Low Debt; Comfortable Interest Coverage,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+TRENT,Mar 2020,Low Debt,Low Return on Equity; Low Net Profit Margin; Negative Free Cash Flow
+TRENT,Mar 2021,Low Debt; Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+TRENT,Mar 2022,Positive Free Cash Flow,Low Return on Equity; Low Net Profit Margin
+TRENT,Mar 2023,Positive Free Cash Flow,Low Net Profit Margin
+TRENT,Mar 2024,High Return on Equity; Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+TVSMOTOR,Mar 2013,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+TVSMOTOR,Mar 2014,Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+TVSMOTOR,Mar 2015,High Return on Equity; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+TVSMOTOR,Mar 2016,High Return on Equity; Comfortable Interest Coverage; Positive Free Cash Flow,Low Net Profit Margin; Weak Operating Margin
+TVSMOTOR,Mar 2017,High Return on Equity; Comfortable Interest Coverage,Low Net Profit Margin; Weak Operating Margin; Negative Free Cash Flow
+TVSMOTOR,Mar 2018,High Return on Equity,High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TVSMOTOR,Mar 2019,High Return on Equity,High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TVSMOTOR,Mar 2020,,High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TVSMOTOR,Mar 2021,Positive Free Cash Flow,High Debt; Low Net Profit Margin
+TVSMOTOR,Mar 2022,,High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TVSMOTOR,Mar 2023,High Return on Equity,High Debt; Low Net Profit Margin; Negative Free Cash Flow
+TVSMOTOR,Mar 2024,High Return on Equity,High Debt; Low Net Profit Margin; Negative Free Cash Flow
+ULTRACEMCO,Mar 2013,Low Debt; Strong Operating Margin; Comfortable Interest Coverage,Negative Free Cash Flow
+ULTRACEMCO,Mar 2014,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ULTRACEMCO,Mar 2015,Comfortable Interest Coverage; Positive Free Cash Flow,
+ULTRACEMCO,Mar 2016,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+ULTRACEMCO,Mar 2017,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ULTRACEMCO,Mar 2018,Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+ULTRACEMCO,Mar 2019,Positive Free Cash Flow,Low Return on Equity
+ULTRACEMCO,Mar 2020,Strong Operating Margin; Positive Free Cash Flow,
+ULTRACEMCO,Mar 2021,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ULTRACEMCO,Mar 2022,Low Debt; Strong Operating Margin; Comfortable Interest Coverage; Positive Free Cash Flow,
+ULTRACEMCO,Mar 2023,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,Low Return on Equity
+ULTRACEMCO,Mar 2024,Low Debt; Comfortable Interest Coverage; Positive Free Cash Flow,
+UNIONBANK,Mar 2013,,High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+UNIONBANK,Mar 2014,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin; Poor Interest Coverage
+UNIONBANK,Mar 2015,,Low Return on Equity; High Debt; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+UNIONBANK,Mar 2016,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+UNIONBANK,Mar 2017,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+UNIONBANK,Mar 2018,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+UNIONBANK,Mar 2019,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+UNIONBANK,Mar 2020,,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage; Negative Free Cash Flow
+UNIONBANK,Mar 2021,Positive Free Cash Flow,Low Return on Equity; High Debt; Low Net Profit Margin; Weak Operating Margin; Poor Interest Coverage
+UNIONBANK,Mar 2022,Positive Free Cash Flow,Low Return on Equity; High Debt; Weak Operating Margin; Poor Interest Coverage
+UNIONBANK,Mar 2023,Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
+UNIONBANK,Mar 2024,Positive Free Cash Flow,High Debt; Weak Operating Margin; Poor Interest Coverage
